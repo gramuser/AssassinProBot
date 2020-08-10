@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Amazers/Assassin_ProBot",
+  "repository": "https://github.com/gramuser/Assassin_ProBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -71,7 +71,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "9.5"
+        "version": "11"
       }
     }
   ]
